@@ -1,6 +1,6 @@
 {
   "name": "hubot-randict",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Hubot script for displaying the random words from www.weblio.jp",
   "main": "index.js",
   "scripts": {
