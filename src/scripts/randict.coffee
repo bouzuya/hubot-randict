@@ -1,8 +1,5 @@
-# Description
+# Description:
 #   A Hubot script for displaying the random words from www.weblio.jp.
-#
-# Dependencies:
-#   "cheerio": "^0.17.0"
 #
 # Configuration:
 #   None
